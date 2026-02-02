@@ -1,6 +1,6 @@
 # Evaluation of Results of Frank Wolfe Algorithms and Variants with the Maximum Clique Problem
 
-**Authors:** Sara Pangrazio, Nicola Bazzani
+**Authors:** Sara Pangrazio https://github.com/pangraziosara, Nicola Bazzani https://github.com/nicolabazzani
 
 Project for *Optimization for Data Science*, University of Padova, 2025
 
